@@ -1,0 +1,1 @@
+This is basically an obsolete and depreciated project. see GerberTools Panalizer for a working panel creator.
